@@ -20,7 +20,10 @@ h1{
 h2{
   color: black;
   font-family: arial;
-  font-size: 50px;
+  font-size: 42px;
+  width: 600px;
+  margin-left: 50%;
+  transform: translateX(-50%);
   margin-top: 100px;
   margin-bottom: 50px;
 }
@@ -30,7 +33,7 @@ h2{
   transform: translateX(-50%);
   text-align: center;
   visibility: visible;
-  top: 170px;
+  top: 170px;https://ebign.github.io/blog/
   text-align: center;
   z-index: 7;
 }
@@ -124,63 +127,63 @@ span::before{
 	font-size: 24px;
     color: black;
     padding: 10px;
-	content: "« Ne réclames jamais rien pour accomplir ton oeuvre !»";
+	content: "Designer produit";
 	margin-left: 0;
 	animation: aaa 8s;
 }
 @keyframes aaa {
 	0%{
-		content: "Artiste";
+		content: "D";
 	}
 	20%{
-		content: "Entrepreuneur"
+		content: "De"
 	}
 	40%{
-		content: "Penseur"
+		content: "Des"
 	}
 	60%{
-		content: "Compositeur"
+		content: "Desi"
     }
     70%{
-		content: "Guitariste"
+		content: "Desig"
     }
     75%{
-		content: "Designer"
+		content: "Design"
     }
     77.5%{
-		content: "Artiste"
+		content: "Designe"
     }
     79%{
-		content: "Entrepreuneur"
-    }
-    80%{
-		content: "Penseur";
-    }
-    81%{
-		content: "Compositeur"
-    }
-    82%{
-		content: "Guitariste"
-    }
-    83%{
 		content: "Designer"
     }
+    80%{
+		content: "Designer p";
+    }
+    81%{
+		content: "Designer pr"
+    }
+    82%{
+		content: "Designer pro"
+    }
+    83%{
+		content: "Designer prod"
+    }
     84%{
-		content: "Artiste"
+		content: "Designer produ"
     }
     85%{
-		content: "Entrepreuneur"
+		content: "Designer produi"
     }
     86%{
-		content: "Penseur"
+		content: "Designer produit"
     }
     87%{
-		content: "« Ne réclames jamais rien pour accomplir ton oeuvre ! »"
+		content: "Designer produit"
     }
 }
 p{
-  text-align: center;
-  width: 400px;
+  text-align: left;
+  width: 600px;
   font-size: 30px;
   padding-bottom: 10px;
   margin-left: 50%;
