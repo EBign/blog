@@ -203,9 +203,6 @@ img{
   width: 600px;
   height: auto;
 }
-.projets{
-  display: flex;
-}
 footer{
   height: 0;
   background-color: black;
@@ -252,8 +249,11 @@ footer p{
     width: 300px;
     height: 300px;
   }
-  .son{
-    transform: scale(0.6);
+  .projets{
+    display:flex
+  }
+  .projet{
+    margin-left: 30px;
   }
   section{
     clip-path: polygon(0 0, 100% 0, 100% 97%, 0 97%);
