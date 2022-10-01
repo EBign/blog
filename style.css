@@ -10,6 +10,9 @@ text-align: center;
 display: block;
 height: 250px;
 }
+header{
+  height:auto;
+}
 h1{
   color: black;
   font-family: arial;
