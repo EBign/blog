@@ -202,7 +202,9 @@ img{
   width: 600px;
   height: auto;
 }
-
+.projets{
+  display: flex;
+}
 footer{
   height: 0;
   background-color: black;
